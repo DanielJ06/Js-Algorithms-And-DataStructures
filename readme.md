@@ -5,4 +5,4 @@
 
 | Topic | Location |
 | ------ | ------ |
-| Big O Notation | [Go to topic](./big-O-notation/bigONotation.md)
+| Big O Notation | [Go to topic](./big-O-notation)
